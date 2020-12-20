@@ -23,3 +23,7 @@ J'adore pratiquer et regarder le sport de manière générale !
 :runner: :tennis: :basketball: :football: :volleyball: :man_playing_handball:  
 :musical_keyboard: J'ai fait du Piano pendant longtemps    
 :beers: Et forcément j'adore sortir avec mes amis :man_dancing:  
+
+- :monocle_face: Comment me contacter ? :nerd_face:
+:telephone_receiver: 06 70 28 47 92
+:e-mail: thomas.dubois97@orange.fr

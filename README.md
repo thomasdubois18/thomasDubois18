@@ -5,8 +5,8 @@
 - :man_student: J'ai été diplomé en Septembre 2020 après une année d'alternance
 - :mask: Mais voila.. ce n'est pas une super année pour être diplomé...
 - ~~:triumph: pas le temps pour s'apitoyer sur son sort :sob:~~
-- :brain: Je décide d'utiliser mon temps libre entre mes recherches de travail pour effectuer des projets de mon côté afin de montrer de quoi je suis capable:
-**Je créé donc ce GitHub avec certains de ces projets (pas forcément tous aboutis**
+- :brain: Je décide d'utiliser mon temps libre entre mes recherches de travail pour effectuer des projets de mon côté afin de montrer de quoi je suis capable:  
+**Je créé donc ce GitHub pour mettre certains de ces projets (pas forcément tous aboutis)**
 
 
 -:wave: Sinon un peu plus sur mes recherches :  
@@ -19,7 +19,8 @@
 -:wave: Un peu plus sur moi ?  
 :martial_arts_uniform: Judoka depuis toujours,  
 :soccer: supporter, fan et joueur de foot,  
+:rugby_football: :swimmer: 	:climbing:	:bicyclist: :skier: :weight_lifting:  
 J'adore pratiquer et regarder le sport de manière générale !  
-:runner: :tennis: :basketball: :football: :volleyball: :man_playing_handball: :rugby_football: :swimmer: 	:climbing:	:bicyclist: :skier: :weight_lifting:  
-:musical_keyboard: Pianiste  
-:beers: et forcément voir mes amis :man_dancing:  
+:runner: :tennis: :basketball: :football: :volleyball: :man_playing_handball:  
+:musical_keyboard: J'ai fait du Piano pendant longtemps    
+:beers: et forcément j'adore voir mes amis :man_dancing:  

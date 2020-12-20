@@ -15,7 +15,7 @@
 :keyboard: (Python, Matlab, R, SQL) :keyboard:  
 
 
-### :wave: **Un peu plus sur moi ? ** 
+### :wave: **Un peu plus sur moi ?**  
 :martial_arts_uniform: Judoka depuis toujours,  
 :soccer: Supporter, fan et joueur de foot,  
 :rugby_football: :swimmer: 	:climbing:	:bicyclist: :skier: :weight_lifting:  
